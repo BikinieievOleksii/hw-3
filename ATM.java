@@ -1,5 +1,3 @@
-package ua.goit.module3;
-
 public class ATM {
     public int countBanknotes(int sum) {
         int banknotes = 0;
